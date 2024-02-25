@@ -25,6 +25,10 @@ Major: Information engineering
 Birthplace: Japan
 Hobby: Game, Watching Baseball
 ```
+
+[![Sekibuuun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sekibuuun&show_icons=true&theme=tokyonight)](https://github.com/sekibuuun/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sekibuuun&layout=compact)](https://github.com/sekibuuun/github-readme-stats)
 <!--
 **sekibuuun/sekibuuun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
