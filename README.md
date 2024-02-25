@@ -6,7 +6,7 @@
     <img height="20" src="https://img.shields.io/twitter/follow/Sekibuuun7466?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/sekibuuun">
-    <img height="20" src="https://img.shields.io/github/followers/Sekibuuun?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/sekibuuun?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/Sekibuuun">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Sekibuuun/posts.svg" />
