@@ -16,6 +16,15 @@
   </a>
 </p>
 
+## Hi there 👋 I am Sekibuuun !
+```
+Name: Aoyama Kazuki
+Age: 22
+Job: Student
+Major: Information engineering
+Birthplace: Japan
+Hobby: Game, Watching Baseball
+```
 <!--
 **sekibuuun/sekibuuun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
